@@ -22,6 +22,9 @@
   
  6- Payment test
    - Checking the different payment options.
+ ## Getting Started
+ ### Drivers
+   Install chromedriver (google chrome), msedgedriver (Internet Explorer), geckodriver (firefox)
    
 
    
