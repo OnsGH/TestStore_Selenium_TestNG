@@ -26,6 +26,16 @@
 ## Getting Started
 ### Drivers
    Install chromedriver (google chrome), msedgedriver (Internet Explorer), geckodriver (firefox) 
+### Dependencies
+ - org.seleniumhq.selenium
+ - commons-io
+### Plugins
+- Integrate Surefire plugins with the testing frameworks TestNG  
+          <configuration>
+          	<suiteXmlFiles>
+          		<suiteXmlFile>testng.xml</suiteXmlFile>
+          	</suiteXmlFiles>
+          </configuration>
 ## Project Steps
  - Create a new maven project
  - Configure the POM.xml file
