@@ -31,11 +31,13 @@
  - commons-io
 ### Plugins
 - Integrate Surefire plugins with the testing frameworks TestNG  
+```` 
           <configuration>
           	<suiteXmlFiles>
           		<suiteXmlFile>testng.xml</suiteXmlFile>
           	</suiteXmlFiles>
           </configuration>
+ ```` 
 ## Project Steps
  - Create a new maven project
  - Configure the POM.xml file
