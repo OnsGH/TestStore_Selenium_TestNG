@@ -20,11 +20,13 @@
   - Remove Item test
   - proceed to checkout test
   
- 6- Payment test
+6- Payment test
    - Checking the different payment options.
- ## Getting Started
- ### Drivers
+## Getting Started
+### Drivers
    Install chromedriver (google chrome), msedgedriver (Internet Explorer), geckodriver (firefox)
+
+
    
 
    
