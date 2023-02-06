@@ -33,6 +33,8 @@
 ### Create a basePage Class
 ### Create Page Objects Classes
 ### Create Test cases Classes
+### Generate the testng.xml file / Update testNG.xml
+### Take a screenshot on Test Failure 
 
 
 
