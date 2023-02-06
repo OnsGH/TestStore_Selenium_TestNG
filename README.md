@@ -26,6 +26,16 @@
 ## Getting Started
 ### Drivers
    Install chromedriver (google chrome), msedgedriver (Internet Explorer), geckodriver (firefox)
+### Create a new maven project
+### Configure the POM.xml file
+### Create the .properties file
+### Configure the POM.xml file
+### Create a basePage Class
+### Create Page Objects Classes
+### Create Test cases Classes
+
+
+
 
 
    
