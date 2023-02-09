@@ -14,11 +14,11 @@
   - Add to cart 
   
 4- Product shopping panel
-  - continue shopping / proceed to checkout 
+  - Continue shopping / Proceed to checkout 
 
 5- proceed to checkout test case
   - Remove Item test
-  - proceed to checkout test
+  - Proceed to checkout test
   
 6- Payment test
    - Checking the different payment options.
